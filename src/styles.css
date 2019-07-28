@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    overflow-x: hidden;
+    /* padding-top: 60px; */
+    /* background-color: #2a3a4b; */
+    /* background-color: white; */
+    /* background-image: url(../src/assets/images/abc.jpg); */
+    /* background-image: linear-gradient(to right top, #000000, #100006, #180011, #1c001a, #1b0025, #1b0025, #1b0025, #1b0025, #1c001a, #180011, #100006, #000000); */
+    background-image: linear-gradient(to right bottom, #131314, #13121c, #111224, #0f112c, #0b1034, #0b1034, #0b1034, #0b1034, #0f112c, #111224, #13121c, #131314);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
